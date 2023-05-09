@@ -9,14 +9,6 @@ In this project, you will prove your mastery of the following learning objective
 
 ![Diagram of CI/CD Pipeline we will be building.](udapeople.png)
 
-### Instructions
-
-- [Selling CI/CD](instructions/0-selling-cicd.md)
-- [Getting Started](instructions/1-getting-started.md)
-- [Deploying Working, Trustworthy Software](instructions/2-deploying-trustworthy-code.md)
-- [Configuration Management](instructions/3-configuration-management.md)
-- [Turn Errors into Sirens](instructions/4-turn-errors-into-sirens.md)
-
 ### Project Submission
 
 For your submission, please submit the following:
@@ -54,7 +46,3 @@ Before you submit your project, please check your work against the project rubri
 - [CloudFormation](https://aws.amazon.com/cloudformation/) - Infrastrcuture as code
 - [Ansible](https://www.ansible.com/) - Configuration management tool
 - [Prometheus](https://prometheus.io/) - Monitoring tool
-
-### License
-
-[License](LICENSE.md)
